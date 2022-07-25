@@ -103,6 +103,16 @@ p {
   transform: scale(0.8);
 }
 
+.fas, .fa-brands {
+  border-radius: 50%;
+  transition: all 200ms ease;
+  padding: 10px;
+  font-size: 40px;
+}
+.fas:hover, .fa-brands:hover {
+  background-color: rgba(211, 211, 211, 0.258);
+}
+
 .link__hover-effect {
   position: relative;
 }
