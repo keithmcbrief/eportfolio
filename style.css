@@ -294,7 +294,7 @@ nav {
 }
 
 .logo__wrapper {
-  width: 60px;
+  width: 50px;
 }
 
 .nav__link--list {
@@ -602,7 +602,7 @@ footer {
 }
 
 .footer__logo--img {
-  width: 60px;
+  width: 50px;
   filter: invert(1);
   margin-bottom: 20px;
   margin-right: 20px;
